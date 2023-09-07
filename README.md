@@ -1,6 +1,4 @@
-### Hi there 👋
-
-🎓 I’m currently studying Computer Science. <br/>
+🎓 Currently studying Computer Science. <br/>
 ⭐️ Interested in Data Science, Machine Learning and generally Coding.
 
 [![gitlab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab)][gitlab]

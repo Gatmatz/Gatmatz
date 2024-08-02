@@ -1,4 +1,4 @@
-🎓 Currently studying Computer Science. <br/>
+🎓 BSc Computer Science at Aristotle University of Thessaloniki. <br/>
 ⭐️ Interested in Data Science, Machine Learning and generally Coding.
 
 [![gitlab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab)][gitlab]

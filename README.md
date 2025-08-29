@@ -8,5 +8,3 @@
 [comment]: <![Stats](https://github.com/Gatmatz/GithubStats/blob/master/generated/overview.svg#gh-dark-mode-only)> 
 [comment]: <![Top Langs](https://github.com/Gatmatz/GithubStats/blob/master/generated/languages.svg#gh-dark-mode-only)> 
 
-
-[gitlab]: https://gitlab.com/Gatmatz
